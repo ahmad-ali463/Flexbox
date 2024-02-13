@@ -11,12 +11,14 @@
     justify-content: center;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     align-items: flex-start ;
 }
 .flex-item{
  width: 200px;
  height: 200px;
- background-color: #1d3357;
- font-size: 48px;   
+ background-color: #6585b8;
+ font-size: 48px;  
+ justify-content: center; 
+ color: aliceblue;
 }
